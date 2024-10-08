@@ -12,7 +12,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -26,7 +25,8 @@ Users should be able to:
 ### Screenshot
 #### Desktop
 
-![](./screenshots/desktop.png)
+![](./screenshots/desktop1.png)
+![](./screenshots/desktop2.png)
 
 #### Mobile
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/julienbouze/four-card-feature-section)
-- Live Site URL: [Vercel Demo](https://four-card-feature-section-nu-ten.vercel.app/)
+- Solution URL: [GitHub Repo](https://github.com/julienbouze/recipe-page)
+- Live Site URL: [Vercel Demo](https://recipe-page-nine-navy.vercel.app)
 
 ## My process
 
@@ -45,7 +45,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
@@ -54,16 +53,12 @@ Users should be able to:
 
 ### What I learned
 
-I learned the use of flex directions, margin auto and unique borders
+I learned the use of marker's coloring
 
 
 ### Continued development
 
 I want to keep improving my Tailwind skills. I want to be able to create any website without editing CSS directly.
-
-### Useful resources
-
-- [Tailwind Flex direction](https://tailwindcss.com/docs/flex-direction) - This helped me to discover how to change style of component if it is hovered
 
 ## Author
 
